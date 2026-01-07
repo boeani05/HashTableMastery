@@ -1,3 +1,8 @@
+package com.boeani.app;
+
+import com.boeani.db.Database;
+import com.boeani.logic.Logic;
+
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;

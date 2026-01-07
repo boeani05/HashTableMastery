@@ -1,3 +1,7 @@
+package com.boeani.db;
+
+import com.boeani.entry.Entry;
+
 import java.util.LinkedList;
 import java.util.List;
 

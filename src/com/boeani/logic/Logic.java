@@ -1,3 +1,8 @@
+package com.boeani.logic;
+
+import com.boeani.db.Database;
+import com.boeani.entry.Entry;
+
 import java.util.Iterator;
 import java.util.List;
 

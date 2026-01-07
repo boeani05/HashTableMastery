@@ -1,3 +1,5 @@
+package com.boeani.entry;
+
 public class Entry {
     private final String key;
     private int value;
