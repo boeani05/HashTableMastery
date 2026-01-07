@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
+@SuppressWarnings("unchecked")
 public class Database {
     private final List<Entry>[] buckets;
     private final int capacity;
