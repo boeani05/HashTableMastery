@@ -11,8 +11,7 @@ data store from scratch, thoroughly understanding its core mechanics, including 
 collision resolution.
 
 Developed as part of my Computer Science learning journey on roadmap.sh, this project reinforces my knowledge of data
-structures, which is crucial for my apprenticeship in application development and my ultimate goal of becoming an
-independent game developer.
+structures, which is crucial for my apprenticeship in application development and my long-term goal of working on autonomous systems.
 
 ## Features
 
